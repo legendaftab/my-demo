@@ -1,2 +1,2 @@
 # my-demo
-this is my git and github account
+this is my Git and GitHub account.
